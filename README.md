@@ -1,10 +1,15 @@
 # Maximizing-Power-Coefficient-Output-of-a-Vertical-Wind-Turbine
 Multidisciplinary System Analysis and Design Optimization Graduate Research Project
 
-#Problem Statement & Goal:
+![image](https://github.com/carlos-navarro-naranjo-backup-account/Maximizing-Power-Coefficient-Output-of-a-Vertical-Wind-Turbine/assets/134238682/3390c6d1-5078-4eb9-a984-8da97b821ad5)
+
+# Problem Statement & Goal:
 Maximize a wind turbine's power coefficient (Cp) by changing blade geometric parameters (Outside Radius of the Blade, Tip Speed Ratio, Root Chord, Tip Chord, Root Alpha, Tip Alpha, Aerofoil) while satisfying the given constraints: (allowed chord length, the maximum possible value of the power coefficient, convergence threshold, and number of iterations) at the given parameters: (Wind speed, Number of Blades, Inside radius of the blade, Number of elements along the blade length, Density of air, Dynamic viscosity of air, mutationChance, mutationAmount).
 
-#Concepts learned while working in this project:
+![image](https://github.com/carlos-navarro-naranjo-backup-account/Maximizing-Power-Coefficient-Output-of-a-Vertical-Wind-Turbine/assets/134238682/bb7a0801-342d-465d-82e7-6379b3abfd47)
+
+
+# Concepts learned while working in this project:
 •	Product development process of complex, multidisciplinary engineered systems using MSADO.
 
 •	Rationalize and quantify a system architecture & product design problem by selecting appropriate objective functions, design parameters, and constraints.
